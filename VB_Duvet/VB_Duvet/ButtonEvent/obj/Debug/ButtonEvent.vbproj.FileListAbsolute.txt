@@ -1,0 +1,12 @@
+D:\CSharp\VB_Duvet\ButtonEvent\bin\Debug\ButtonEvent.exe.config
+D:\CSharp\VB_Duvet\ButtonEvent\bin\Debug\ButtonEvent.exe
+D:\CSharp\VB_Duvet\ButtonEvent\bin\Debug\ButtonEvent.pdb
+D:\CSharp\VB_Duvet\ButtonEvent\bin\Debug\ButtonEvent.xml
+D:\CSharp\VB_Duvet\ButtonEvent\obj\Debug\ButtonEvent.vbprojAssemblyReference.cache
+D:\CSharp\VB_Duvet\ButtonEvent\obj\Debug\ButtonEvent.FrmMain.resources
+D:\CSharp\VB_Duvet\ButtonEvent\obj\Debug\ButtonEvent.Resources.resources
+D:\CSharp\VB_Duvet\ButtonEvent\obj\Debug\ButtonEvent.vbproj.GenerateResource.cache
+D:\CSharp\VB_Duvet\ButtonEvent\obj\Debug\ButtonEvent.vbproj.CoreCompileInputs.cache
+D:\CSharp\VB_Duvet\ButtonEvent\obj\Debug\ButtonEvent.exe
+D:\CSharp\VB_Duvet\ButtonEvent\obj\Debug\ButtonEvent.xml
+D:\CSharp\VB_Duvet\ButtonEvent\obj\Debug\ButtonEvent.pdb
